@@ -1,0 +1,41 @@
+{
+  "title": "A",
+  "description": "no",
+  "artist": "no",
+  "author": "no",
+  "cover": "https://cdn.discordapp.com/attachments/419933072746610699/1209271363408363530/image.png?ex=65e650b8&is=65d3dbb8&hm=f38c260538891e04a3758da3a41e9e211a22667e6089d18b0c75e22b97dc6d54&",
+  "chapters": {
+    "1": {
+      "title": "A_need you noona",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/qe4gdaamb4j/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "2": {
+      "title": "w of silim",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/bp45xwgkn75/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "3": {
+      "title": "throne of innonence_blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/5xy2prvv97l/"
+  },
+      "last_updated": "1616368746"
+                                 },
+    "3.1": {
+      "title": "throne of innonence_red",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgchest/chapter/wl7lxnjpq7x/"
+  },
+      "last_updated": "1616368746"
+                                 }
+     }
+    }
